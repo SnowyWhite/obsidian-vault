@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "345ab095c08d8992",
+    "type": "split",
+    "children": [
+      {
+        "id": "4eda6295a0ffcea4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f96ccb1a98fa1179",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "From Snowy with Love/From Snowy with Love.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "51ae186f2595cd85",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ca853dd359aa0ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a65dfa5a16ea6adc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "From Snowy with Love/2. Areas/Operating Systems/Terminal/Powershell/Useful Powershell Commands.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "f7b817cea8484f8d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "45ab126b4abd99b9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0ac2c2f84883c9ba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "git",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0cbfc4c324f35d02",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 391.5
+  },
+  "right": {
+    "id": "22c5cb914f8d1c6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a2af22832469f98",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8101248a5fc86cda",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "From Snowy with Love/From Snowy with Love.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "60d407e73ab99aeb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "262ab1d1e88fce23",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "From Snowy with Love/From Snowy with Love.md"
+              }
+            }
+          },
+          {
+            "id": "5a0d39a7cbd59426",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "From Snowy with Love/From Snowy with Love.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false,
+      "publish:Publish changes": false
+    }
+  },
+  "active": "f96ccb1a98fa1179",
+  "lastOpenFiles": [
+    "From Snowy with Love/From Snowy with Love.md",
+    "From Snowy with Love/2. Areas/Operating Systems/Terminal/ZSH/ZSH Setup Guide.md",
+    "From Snowy with Love/2. Areas/Operating Systems/Terminal/ZSH/Oh-My-ZSH.md",
+    "From Snowy with Love/2. Areas/Operating Systems/Linux/Linux.md",
+    "From Snowy with Love/2. Areas/Operating Systems/Operating Systems.md",
+    "From Snowy with Love/2. Areas/Operating Systems/Terminal/Terminal.md",
+    "From Snowy with Love/2. Areas/Operating Systems/Terminal/WSL2/WSL2.md",
+    "From Snowy with Love/2. Areas/Programming/Programming.md",
+    "From Snowy with Love/2. Areas/Programming/Python/Python.md",
+    "From Snowy with Love/2. Areas/Programming/NPM.md",
+    "From Snowy with Love/2. Areas/Programming/Self-Signed Certificate.md",
+    "From Snowy with Love/2. Areas/Hacking/Web Exploitation/Web Exploitation.md",
+    "From Snowy with Love/2. Areas/Hacking/Tools/Tools.md",
+    "From Snowy with Love/2. Areas/Hacking/Web Exploitation/Web App Testing Tools.md",
+    "From Snowy with Love/2. Areas/Hacking/Binary Exploitation/Binary Exploitation.md",
+    "From Snowy with Love/2. Areas/Hacking/Hacking.md",
+    "From Snowy with Love/1. Projects/1. Projects.md",
+    "From Snowy with Love/2. Areas/2. Areas.md",
+    "From Snowy with Love/2. Areas/Programming/Visual Studio.md",
+    "From Snowy with Love.md",
+    "From Snowy with Love/2. Areas/Operating Systems/Windows/Windows.md",
+    "From Snowy with Love/2. Areas/Operating Systems/Terminal/ZSH/ZSH.md",
+    "From Snowy with Love/2. Areas/Operating Systems/Linux/Debian 11 Initial Server Setup.md",
+    "From Snowy with Love/2. Areas/Hacking/Handy Scripts/HTTP.md",
+    "From Snowy with Love/2. Areas/Hacking/Tools/XSS.md",
+    "From Snowy with Love/2. Areas/Operating Systems/Terminal/Tools/bat.md",
+    "From Snowy with Love/2. Areas/Operating Systems/Terminal/Tools",
+    "From Snowy with Love 💜/2. Areas/Operating Systems/Linux/attachments/Pasted image 20230204164446.png",
+    "From Snowy with Love 💜/1. Projects/attachments/1 bBA47Ei0HUemeznXYMBlkg.webp",
+    "Context",
+    "From Snowy with Love/2. Areas/Programming/ASP.NET Core",
+    "From Snowy with Love/2. Areas/Operating Systems/Windows Server",
+    "From Snowy with Love/2. Areas/Hacking/Windows/attachments/Portable_Executable_32_bit_Structure_in_SVG_fixed.svg",
+    "From Snowy with Love/2. Areas/Programming/Java/attachments/Pasted image 20230326031722.png",
+    "From Snowy with Love/2. Areas/Programming/Java/attachments",
+    "From Snowy with Love/2. Areas/Programming/Java",
+    "From Snowy with Love 💜/1. Projects/Cyberpunk Mod",
+    "PARA/2. Areas/Operating Systems/Terminal/NPM",
+    "Anapico/attachments/Pasted image 20230322130510.png",
+    "Anapico/attachments/Pasted image 20230321145133.png",
+    "Anapico/attachments",
+    "From Snowy with Love 💜/1. Projects/Discord Encryptor",
+    "From Snowy with Love 💜/1. Projects/FameSystems/Artemis/attachments/Pasted image 20230313222833.png",
+    "PARA/1. Projects/FameSystems/FameGuard/attachments/Pasted image 20230313222833.png"
+  ]
+}

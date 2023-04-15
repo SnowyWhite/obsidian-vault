@@ -1,0 +1,12 @@
+{
+  "accentColor": "",
+  "baseFontSize": 14,
+  "cssTheme": "Obuntu",
+  "interfaceFontFamily": "Cascadia Code",
+  "textFontFamily": "Poppins",
+  "monospaceFontFamily": "Cascadia Mono",
+  "theme": "obsidian",
+  "showViewHeader": true,
+  "nativeMenus": true,
+  "translucency": false
+}

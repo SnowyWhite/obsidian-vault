@@ -1,0 +1,65 @@
+{
+  "filePreviewOnHover": false,
+  "markSans": false,
+  "makeMenuPlaceholder": true,
+  "mobileMakeBar": true,
+  "inlineStyler": true,
+  "makerMode": false,
+  "inlineStylerColors": true,
+  "editorFlow": true,
+  "internalLinkClickFlow": true,
+  "saveAllContextToFrontmatter": true,
+  "editorFlowStyle": "seamless",
+  "autoOpenFileContext": false,
+  "spacesCompactMode": false,
+  "spacesEnabled": true,
+  "spacesPerformance": false,
+  "enableFolderNote": true,
+  "revealActiveFile": false,
+  "spacesStickers": true,
+  "spacesDisablePatch": false,
+  "folderNoteInsideFolder": true,
+  "sidebarTabs": true,
+  "showRibbon": true,
+  "deleteFileOption": "trash",
+  "expandedFolders": {
+    "/": [
+      "From Snowy with Love"
+    ],
+    "Operating Systems": [],
+    "FameSystems": [
+      "PARA/1. Projects/FameSystems/FameGuard"
+    ]
+  },
+  "expandedSpaces": [
+    null,
+    "FameSystems",
+    "Operating Systems",
+    "/",
+    null
+  ],
+  "folderRank": {
+    "node": "root",
+    "children": [],
+    "isFolder": true
+  },
+  "openFolders": [],
+  "fileIcons": [],
+  "spaces": [],
+  "pinnedSpaces": [],
+  "menuTriggerChar": "/",
+  "emojiTriggerChar": ":",
+  "folderContextFile": "context",
+  "tagContextFolder": "Context",
+  "hiddenFiles": [
+    "Context"
+  ],
+  "hiddenExtensions": [
+    "mdb"
+  ],
+  "vaultSort": [
+    "rank",
+    true
+  ],
+  "newFileLocation": "current"
+}
