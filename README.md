@@ -2,7 +2,7 @@
 
 Hey 👋
 
-This is the vault structure I personally use together with all the notes where I suppose they could be useful for you as well.
+This is the vault structure I personally use together with all the notes where I suppose they could be useful for you as well.<br>
 The structure is loosely based on the PARA method.
 You can learn more about it here: https://fortelabs.com/blog/para
 
@@ -17,7 +17,7 @@ Additionally, it contains the plugins I use and the [theme](https://github.com/d
     - Poppins: https://fonts.google.com/specimen/Poppins
     - Cascadia Code: https://github.com/microsoft/cascadia-code/releases
     - Cascadia Mono: https://github.com/microsoft/cascadia-code/releases
-3. Have fun 😀
+3. Have fun 😄💜
 
 ## Overview of Used Plugins
 
@@ -33,7 +33,7 @@ Here is a short summary of them:
 3. [Make.md](https://www.make.md)<br>
     Make.md adds a powerful WYSIWYG Markdown editor to Obsidian, allowing you to edit your notes with a rich-text interface while preserving the underlying Markdown format.
     
-4. [Folder Note](https://github.com/xpgo/obsidian-folder-note)<br>
+4. [Folder Note](https://github.com/xpgo/obsidian-folder-note-plugin)<br>
     This plugin allows you to create and manage folder-specific notes that are automatically linked to a folder, making it easy to add context or summaries for each folder in your vault.
     
 5. [CM Editor Syntax Highlight](https://github.com/deathau/cm-editor-syntax-highlight-obsidian)<br>
