@@ -24,7 +24,10 @@ Additionally, it contains the plugins I use and the [theme](https://github.com/d
     - Poppins: https://fonts.google.com/specimen/Poppins
     - Cascadia Code: https://github.com/microsoft/cascadia-code/releases
     - Cascadia Mono: https://github.com/microsoft/cascadia-code/releases
-3. Have fun 😄💜
+3. Clone this repo, move the `Kinky Vault` folder into your desired directory
+4. Rename the folder `obsidian` to `.obsidian` (GitHub doesn't seem to like having folders beginning with a dot)
+5. Run Obsidian and open `Kinky Vault` as a vault
+6. Have fun 😄💜
 
 ## Overview of Used Plugins
 
