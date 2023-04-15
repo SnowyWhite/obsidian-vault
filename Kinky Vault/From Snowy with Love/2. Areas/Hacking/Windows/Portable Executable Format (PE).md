@@ -1,0 +1,1 @@
+![[Portable_Executable_32_bit_Structure_in_SVG_fixed.svg]]
